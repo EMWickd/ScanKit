@@ -1,4 +1,4 @@
-package com.example.scankitdemo;
+package org.biojava.html5
 
 import android.Manifest;
 import android.app.Activity;
